@@ -1,5 +1,7 @@
-# poslovanja-lokalnih-data-importer
-Rezultati poslovanja lokalnih javnih preduzeća u Republici Srbiji, po opštinama, 2006.
+What Is It?
+===========
+A script that imports data from CSVs into MongoDB.
+Part of the data includes addresses, which we attempt to geocode.
 
 Install and Run
 ===============
